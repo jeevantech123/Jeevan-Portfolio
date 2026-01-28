@@ -17,7 +17,7 @@ export default function Portfolio() {
     linkedin: "https://www.linkedin.com/in/jeevan-jayagopan-71a118309/",
     leetcode: "https://leetcode.com/u/JeevanTech/",
     linktree: "https://linktr.ee/jeevantech123",
-    resumeLink: "/Jeevan_Jayagopan_Resume.pdf", // Add your resume link here
+    resumeLink: "/Jeevan-Portfolio/Jeevan_Jayagopan_Resume.pdf", // Add your resume link here
     bio: "I'm a passionate CS student interested in full-stack development, machine learning, and building things that matter. Currently seeking internship opportunities for Spring/Summer 2026."
   };
 
@@ -27,7 +27,7 @@ export default function Portfolio() {
       title: "This Website!",
       description: "This website was my first major project. I learned how to ship and deploy code, as well as connecting frontend and backend together.",
       tech: ["React", "Node.js", "JavaScript", "HTML/CSS"],
-      github: "https://github.com/yourusername/project1",
+      github: "https://github.com/jeevantech123/Jeevan-Portfolio",
       demo: "",
       image: "🚀"
     },
@@ -338,7 +338,7 @@ export default function Portfolio() {
       <footer className="footer">
         <div className="container">
           <p className="footer-text">
-            © 2025 {personalInfo.name}. Built with React.
+            © 2026 {personalInfo.name}
           </p>
         </div>
       </footer>
