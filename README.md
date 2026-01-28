@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Jeevan's Portfolio Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+I made this project with react, and it is my first project. It is a portfolio website to show my best projects and to view information about me.
 
 ## Available Scripts
 
