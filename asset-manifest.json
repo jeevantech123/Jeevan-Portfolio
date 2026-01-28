@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Jeevan-Portfolio/static/css/main.7b67969c.css",
+    "main.css": "/Jeevan-Portfolio/static/css/main.f3021379.css",
     "main.js": "/Jeevan-Portfolio/static/js/main.88ae38ed.js",
     "static/js/453.b7271fad.chunk.js": "/Jeevan-Portfolio/static/js/453.b7271fad.chunk.js",
     "index.html": "/Jeevan-Portfolio/index.html",
-    "main.7b67969c.css.map": "/Jeevan-Portfolio/static/css/main.7b67969c.css.map",
+    "main.f3021379.css.map": "/Jeevan-Portfolio/static/css/main.f3021379.css.map",
     "main.88ae38ed.js.map": "/Jeevan-Portfolio/static/js/main.88ae38ed.js.map",
     "453.b7271fad.chunk.js.map": "/Jeevan-Portfolio/static/js/453.b7271fad.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7b67969c.css",
+    "static/css/main.f3021379.css",
     "static/js/main.88ae38ed.js"
   ]
 }
