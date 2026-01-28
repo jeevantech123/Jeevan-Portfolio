@@ -520,6 +520,9 @@ body {
   text-decoration: none;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   transition: all 0.2s;
+  max-width: 90%;
+  word-break: break-word;
+  text-align: center;
 }
 
 .btn-primary-large:hover {
